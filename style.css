@@ -1004,6 +1004,7 @@ input.eight_single-box-hed_text_bg_color
 
 .foter_single_img img {
     width: 100%;
+  object-fit: cover;
 }
 
 .foter_img_btn input {
